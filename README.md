@@ -53,7 +53,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Product detail page
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="Product detail mobile screen">
+  
+  <img src="readme-images/IMG_6296.PNG" width="375px" alt=“Detail page mobile screen">
+  <img src="readme-images/IMG_6297.PNG" width="375px" alt=“Detail page mobile screen">
+  <img src="readme-images/IMG_6298.PNG" width="375px" alt=“Detail page mobile screen">
+  <img src="readme-images/IMG_6299.PNG" width="375px" alt=“Detail page mobile screen">
+  <img src="readme-images/IMG_6300.PNG" width="375px" alt=“Detail page mobile screen">
+
  
 </details>
 
