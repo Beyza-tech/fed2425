@@ -14,6 +14,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
+  <p>test</p>
+  <p>test</p>
+  <p>test</p>
+  <p>test</p>
+  <p>test</p>
+  <p>test</p>
 
   ### Auteur:
   Sanne 't Hooft (vervangen door jouw naam)
