@@ -78,6 +78,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Breakdownschets (week 1)
+![Figma Breakdown 1](https://github.com/user-attachments/assets/9603a4c6-5a66-4def-ab98-be2a3fd0944a)
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
